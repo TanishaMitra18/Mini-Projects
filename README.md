@@ -1,2 +1,19 @@
 # Mini-Projects
-Mini-Projects is a collection of small, practical projects built across different technologies. It includes data experiments and automation solutions using Excel, Power BI, SQL, VBA, Python, and AI agents like ChatGPT, Copilot, etc.  Each project is organized in its own branch, making it easy to explore, learn, and reuse.
+
+This repository contains a series of small projects and analysis across multiple technologies:
+- Excel automation
+- Power BI dashboards
+- SQL queries and data manipulation
+- VBA macros
+- Python scripts
+- AI-based solutions
+
+## Structure
+Each project is maintained in its own branch:
+- `excel-task-tracker` → Automates task tracking in Excel with VBA and progress visualization
+- (future branches will be added here)
+
+## Purpose
+The repo serves as a learning playground and portfolio of practical mini-projects, showing how different tools can be applied to solve real-world problems.
+The goal is to showcase how everyday problems can be solved with simple code, smart tools, and clear data insights.
+
