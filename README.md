@@ -10,7 +10,7 @@ This repository contains a series of small projects and analysis across multiple
 
 ## Structure
 Each project is maintained in its own branch:
-- `excel-task-tracker` → Automates task tracking in Excel with VBA and progress visualization
+- `Personal-Task-Tracker` → Automates task tracking in Excel with VBA and progress visualization
 - (future branches will be added here)
 
 ## Purpose
