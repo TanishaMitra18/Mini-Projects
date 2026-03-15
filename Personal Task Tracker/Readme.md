@@ -37,7 +37,7 @@ The Personal Task Tracker file consists of three sheets:
 ---
 
 ## How to Use
-1. Open `TaskTracker.xlsm`.
+1. Open `PersonalTaskTracker.xlsm`.
 2. Enable macros when prompted.
 3. Use checkboxes to update task status.
 4. Use the Master Checkbox to mark all remaining tasks (unsaved tasks) as N/A to improve efficiency.
