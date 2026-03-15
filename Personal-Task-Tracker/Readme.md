@@ -3,9 +3,12 @@
 An Excel-based task tracker powered by VBA automation.  
 This project helps manage tasks efficiently with checkboxes, progress tracking, automated reporting, and logging daily tasks into a dedicated sheet.
 The Personal Task Tracker file consists of three sheets:
--**Tracker:** Contains all the Tasks listed with Description and Frequency to perform them. Additionally it also includes "Completed", "Saved" and "NA" checkboxes for daily tracking.
--**Report:** Contains a simplified dashboard to show task completion progress as well as the tasks pending for the day.
--**DailyReports:** Contains the data on task progress from previous days saved on clicking "Save My Daily Report" button
+- **Tracker:**
+Contains all the Tasks listed with Description and Frequency to perform them. Additionally it also includes "Completed", "Saved" and "NA" checkboxes for daily tracking.
+- **Report:** 
+Contains a simplified dashboard to show task completion progress as well as the tasks pending for the day.
+- **DailyReports:** 
+Contains the data on task progress from previous days saved on clicking "Save My Daily Report" button
 ---
 
 ## Features
