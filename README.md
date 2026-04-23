@@ -10,7 +10,8 @@ This repository contains a series of small projects and analysis across multiple
 
 ## Structure
 Each project is maintained in its own branch:
-- `Personal-Task-Tracker` → Automates task tracking in Excel with VBA and progress visualization
+- 'Personal-Task-Tracker' → Automates task tracking in Excel with VBA and progress visualization
+- 'Heart Disease Exploratory Data Analysis' → Exploratory data analysis on the Cleveland Heart Disease dataset, identifying key cardiovascular risk factors through normalized analysis, hypothesis testing, and correlation mapping using Python.
 - (future branches will be added here)
 
 ## Purpose
